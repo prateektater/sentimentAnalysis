@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-# Steps Involved
+## Steps Involved
 
 1. Extractiong reviews using youtube API
 2. Tokenizing
@@ -16,6 +16,6 @@
 11. Testing the model and checking accuracy
 12. K Fold Cross Validation
 
-# Using Mutinomial Naive Bayes
+## Using Mutinomial Naive Bayes
 
-# K Fold Cross Validation
+## K Fold Cross Validation
